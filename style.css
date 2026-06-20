@@ -23,3 +23,13 @@ a{
   align-items: center;
   z-index: 100;
 }
+
+.navbar .logo{
+  font-size: 30px;
+  font-weight: 700;
+}
+
+
+.navbar ul{
+  display: flex;
+}
