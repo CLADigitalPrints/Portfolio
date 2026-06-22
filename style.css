@@ -190,6 +190,7 @@ a{
 .home-img .img-box::after{
   content: '';
   position: absolute;
+margin-left: 110px
   width: 500px;
   height: 500px;
   background: conic-gradient(transparent, transparent, 
